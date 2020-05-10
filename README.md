@@ -16,6 +16,7 @@ The Data Description is as follows:
 •	**price** - The cost for a bottle of the wine  
 •	**province** - The province or state that the wine is from.  
 •	**region_1** - The wine-growing area in a province or state (ie Napa).  
-•	**region_2** - Sometimes there are more specific regions specified within a wine-growing area (ie Rutherford inside the Napa Valley),                    but this value can sometimes be blank.  
+•	**region_2** - Sometimes there are more specific regions specified within a wine-growing area (ie Rutherford inside the Napa Valley),  
+                 but this value can sometimes be blank.  
 •	**winery** - The winery that made the wine  
 •	**variety** - The type of grapes used to make the wine. Dependent variable for task 2 of the assignment  
