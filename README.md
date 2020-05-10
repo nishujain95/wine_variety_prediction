@@ -1,3 +1,7 @@
+# Wine Variety Prediction
+
+
+
 In this dataset, we will predict the wine varities by using reviews description. 
 
 At first, we will clean the data, then we will do some analysis by using matplotlib & seaborn.
@@ -5,7 +9,7 @@ At first, we will clean the data, then we will do some analysis by using matplot
 After that, we will do predictive modeling.
 
 
-The Data Description is as follows:  
+###The Data Description is as follows:  
 
 •	**user_name** - user_name of the reviewer  
 •	**country** -The country that the wine is from.  
